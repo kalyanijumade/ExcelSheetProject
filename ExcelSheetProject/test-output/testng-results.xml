@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12953" started-at="2019-10-16T12:39:03Z" finished-at="2019-10-16T12:39:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12953" started-at="2019-10-16T12:39:03Z" finished-at="2019-10-16T12:39:15Z">
+      <class name="com.excelsheet.TestWithExcelsheet">
+        <test-method status="PASS" signature="open_Browser()[pri:0, instance:com.excelsheet.TestWithExcelsheet@cf72fd]" name="open_Browser" is-config="true" duration-ms="12800" started-at="2019-10-16T18:09:03Z" finished-at="2019-10-16T18:09:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_Browser -->
+        <test-method status="PASS" signature="actual_Sheet()[pri:1, instance:com.excelsheet.TestWithExcelsheet@cf72fd]" name="actual_Sheet" duration-ms="107" started-at="2019-10-16T18:09:15Z" finished-at="2019-10-16T18:09:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actual_Sheet -->
+        <test-method status="PASS" signature="expect_Sheet()[pri:2, instance:com.excelsheet.TestWithExcelsheet@cf72fd]" name="expect_Sheet" duration-ms="36" started-at="2019-10-16T18:09:15Z" finished-at="2019-10-16T18:09:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- expect_Sheet -->
+      </class> <!-- com.excelsheet.TestWithExcelsheet -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
