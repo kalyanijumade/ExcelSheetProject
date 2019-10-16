@@ -6,5 +6,5 @@ poi<br>
 poi-ooxml<br>	
 poi-ooxml-schemas<br>	 
 xmlbeans <br>	
-commons-collections4-4.1<br>	
-commons-compress-1.18<br>	
+commons-collections4<br>	
+commons-compress<br>	
